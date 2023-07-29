@@ -1,6 +1,6 @@
 # About me
 
-Hi, I am **Supertis**. 
+Hi, I am **ngseven7**. 
 
  - 🍰 I’m a web developer who follow my heart
  - 🌈 I’m current learning `tailwindcss`, `Three.js`
